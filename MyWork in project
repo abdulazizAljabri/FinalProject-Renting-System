@@ -1,0 +1,59 @@
+# FinalProject-Renting-System
+
+
+I worked on : 
+User Model 
+write attribute and validation and relation One to One  between model Renter and Lessor and Employee 
+Employee model
+write attribute and validation
+and relation One to many  between  WareHouse modle 
+
+Lessor model
+write attribute and validation
+and relation One to One  between model Subscription
+Renter model
+write attribute and validation
+Subscription model
+write attribute and validation
+WareHouse model
+write attribute and validation
+
+and service :
+
+Some of the services I worked on 
+
+(assing employee to WareHouse )
+
+(assing Lessor to Subscription )
+
+i using data format for calculate start date and end date for subscription 
+
+(search by UserName)
+
+(getInfo for any kind of User)
+
+(getMysubscription for Lessor )
+
+
+and controller :
+CRUD for all this models 
+
+total endpoint i do = 27 include CRUD 
+
+
+------------------------------
+
+i worked on Junit Testing
+
+5 repository
+
+5 service
+
+5 controller
+  
+------------------------------
+
+i worked on Figma
+and presentation
+
+-----------------------------------------------------
